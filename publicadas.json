@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-19T18:10:08.614Z",
+  "actualizado": "2026-09-22T19:02:45.578Z",
   "posts": [
+    {
+      "id": "2026-09-22-plazo-del-credito",
+      "permalink": "https://www.instagram.com/p/Ddmb_b9G86K/",
+      "fecha": "2026-09-22T19:01:02.222Z",
+      "tema": "El plazo: la variable que más cambia lo que pagas",
+      "alt": "Portada sobre la foto de una calculadora en un celular encima de informes con gráficos: «El plazo: la variable que más cambia lo que pagas». Abajo: «Una cuota más liviana no siempre es una propiedad más barata».",
+      "portada": "2026/09/2026-09-22-plazo-del-credito/01.jpg",
+      "laminas": 6
+    },
     {
       "id": "2026-09-19-cuestion-de-suerte",
       "permalink": "https://www.instagram.com/p/Ddenlp3FAV7/",
@@ -100,15 +109,6 @@
       "alt": "Foto de una llave de bronce en la cerradura de una puerta; abajo, sobre fondo arena: «Vender, comprar y arrendar».",
       "portada": "2026/10/2026-10-01-L2-servicios/01.jpg",
       "laminas": 5
-    },
-    {
-      "id": "2026-10-01-L1",
-      "permalink": "https://www.instagram.com/p/DdRpq3hmqLs/",
-      "fecha": "2026-09-14T17:16:29.650Z",
-      "tema": "Concepción, Chillán y alrededores",
-      "alt": "Vista aérea de Hualpén y el río Biobío con sus puentes, bajo un velo marino: «Concepción, Chillán y alrededores», con las seis comunas donde trabaja VCAA.",
-      "portada": "2026/10/2026-10-01-L1-territorio/01.jpg",
-      "laminas": 1
     }
   ]
 }
