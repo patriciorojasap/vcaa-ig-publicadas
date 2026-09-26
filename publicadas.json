@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-26T23:49:16.899Z",
+  "actualizado": "2026-09-26T23:52:12.362Z",
   "posts": [
+    {
+      "id": "2026-09-28-canje-arrendatario-casa",
+      "permalink": "https://www.instagram.com/p/DdxQSb-D2z2/",
+      "fecha": "2026-09-26T23:50:26.709Z",
+      "tema": "Arrendatario calificado busca casa de 3 dormitorios",
+      "alt": "Vista aérea del Gran Concepción y el río Biobío, con velo marino. Texto: «Canje abierto · Arriendo. Arrendatario calificado busca casa de 3 dormitorios. Hasta $900.000 al mes.»",
+      "portada": "2026/09/2026-09-28-canje-arrendatario-casa/01.jpg",
+      "laminas": 3
+    },
     {
       "id": "2026-09-27-canje-comprador-contado",
       "permalink": "https://www.instagram.com/p/DdxP9JjkV38/",
@@ -100,15 +109,6 @@
       "alt": "Foto: living cálido con chimenea de piedra, vigas de madera y escalera. Abajo, sobre fondo arena: «Publicar es fácil. Ponerle precio no lo es.».",
       "portada": "2026/10/2026-10-01-L6-antes-de-publicar/01.jpg",
       "laminas": 7
-    },
-    {
-      "id": "2026-10-01-L5",
-      "permalink": "https://www.instagram.com/p/DdRqkUhmoSi/",
-      "fecha": "2026-09-14T17:24:17.681Z",
-      "tema": "Solo se paga si se cierra.",
-      "alt": "Portada: «Solo se paga si se cierra».",
-      "portada": "2026/10/2026-10-01-L5-honorario/01.jpg",
-      "laminas": 5
     }
   ]
 }
