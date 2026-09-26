@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-26T18:42:14.412Z",
+  "actualizado": "2026-09-26T23:49:16.899Z",
   "posts": [
+    {
+      "id": "2026-09-27-canje-comprador-contado",
+      "permalink": "https://www.instagram.com/p/DdxP9JjkV38/",
+      "fecha": "2026-09-26T23:47:32.105Z",
+      "tema": "Cliente al contado busca 2 dormitorios en el Gran Concepción",
+      "alt": "Vista de Concepción desde un cerro, con velo marino. Texto: «Canje abierto · Compra. Cliente al contado busca 2 dormitorios en el Gran Concepción. Hasta $60.000.000, sin crédito hipotecario.»",
+      "portada": "2026/09/2026-09-27-canje-comprador-contado/01.jpg",
+      "laminas": 3
+    },
     {
       "id": "2026-09-26-vivir-en-concepcion",
       "permalink": "https://www.instagram.com/p/DdwszOTmazs/",
@@ -100,15 +109,6 @@
       "alt": "Portada: «Solo se paga si se cierra».",
       "portada": "2026/10/2026-10-01-L5-honorario/01.jpg",
       "laminas": 5
-    },
-    {
-      "id": "2026-10-01-L4",
-      "permalink": "https://www.instagram.com/p/DdRqVVuGtos/",
-      "fecha": "2026-09-14T17:22:19.290Z",
-      "tema": "Cinco cosas que revisar antes de ofertar",
-      "alt": "Foto: una casa de juguete y una lupa sobre planos: revisar una propiedad antes de decidir. Abajo, sobre fondo arena: «Cinco cosas que revisar antes de ofertar».",
-      "portada": "2026/10/2026-10-01-L4-antes-de-ofertar/01.jpg",
-      "laminas": 7
     }
   ]
 }
