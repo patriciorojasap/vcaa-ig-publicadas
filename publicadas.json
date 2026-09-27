@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-26T23:52:12.362Z",
+  "actualizado": "2026-09-27T19:32:34.488Z",
   "posts": [
+    {
+      "id": "2026-09-27-reel-pablito-ep01",
+      "permalink": "https://www.instagram.com/reel/DdzWpPCj8Zs/",
+      "fecha": "2026-09-27T19:24:46.070Z",
+      "tema": "¿Conoces a un Pablito?",
+      "alt": "Cuadro del reel: Pablito, con sweater mostaza, entra al depa con el teléfono en alto y el texto «¡Depa regalado en Concepción!»; su amigo rubio lo mira desde el sillón.",
+      "portada": "2026/09/2026-09-27-reel-pablito-ep01/01.jpg",
+      "laminas": 1
+    },
     {
       "id": "2026-09-28-canje-arrendatario-casa",
       "permalink": "https://www.instagram.com/p/DdxQSb-D2z2/",
@@ -100,15 +109,6 @@
       "alt": "Living comedor del departamento en Concepción Centro: sofá azul, mesa de comedor y cuadros en la pared. 3 dormitorios, 2 baños, 116 m², UF 7.285.",
       "portada": "2026/10/2026-10-01-L7-propiedad/01.jpg",
       "laminas": 6
-    },
-    {
-      "id": "2026-10-01-L6",
-      "permalink": "https://www.instagram.com/p/DdRqzN2Glth/",
-      "fecha": "2026-09-14T17:26:22.229Z",
-      "tema": "Publicar es fácil. Ponerle precio no lo es.",
-      "alt": "Foto: living cálido con chimenea de piedra, vigas de madera y escalera. Abajo, sobre fondo arena: «Publicar es fácil. Ponerle precio no lo es.».",
-      "portada": "2026/10/2026-10-01-L6-antes-de-publicar/01.jpg",
-      "laminas": 7
     }
   ]
 }
