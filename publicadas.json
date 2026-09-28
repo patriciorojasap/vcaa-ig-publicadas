@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-27T19:32:34.488Z",
+  "actualizado": "2026-09-28T02:43:48.031Z",
   "posts": [
+    {
+      "id": "2026-09-30-comprar-o-ahorrar",
+      "permalink": "https://www.instagram.com/p/Dd0IuGXlv7e/",
+      "fecha": "2026-09-28T02:42:01.769Z",
+      "tema": "¿Comprar ahora o seguir ahorrando?",
+      "alt": "Portada sobre la foto de un living con ventanal: «¿Comprar ahora o seguir ahorrando?». Abajo: puede que no necesites esperar a juntar el 20% de pie, pero antes de decidir, mira esto.",
+      "portada": "2026/09/2026-09-30-comprar-o-ahorrar/01.jpg",
+      "laminas": 7
+    },
     {
       "id": "2026-09-27-reel-pablito-ep01",
       "permalink": "https://www.instagram.com/reel/DdzWpPCj8Zs/",
@@ -100,15 +109,6 @@
       "alt": "Foto: huincha de medir sobre una mesa de madera. Abajo, sobre fondo arena: «Un proceso, seis etapas, cero improvisación.».",
       "portada": "2026/10/2026-10-01-L8-proceso/01.jpg",
       "laminas": 8
-    },
-    {
-      "id": "2026-10-01-L7",
-      "permalink": "https://www.instagram.com/p/DdSD5-1GFS9/",
-      "fecha": "2026-09-14T21:05:47.237Z",
-      "tema": "Departamento amoblado en Concepción Centro",
-      "alt": "Living comedor del departamento en Concepción Centro: sofá azul, mesa de comedor y cuadros en la pared. 3 dormitorios, 2 baños, 116 m², UF 7.285.",
-      "portada": "2026/10/2026-10-01-L7-propiedad/01.jpg",
-      "laminas": 6
     }
   ]
 }
