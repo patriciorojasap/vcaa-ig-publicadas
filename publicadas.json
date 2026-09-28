@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-28T02:43:48.031Z",
+  "actualizado": "2026-09-28T16:09:07.090Z",
   "posts": [
+    {
+      "id": "2026-10-02-criterio-02-oportunidad",
+      "permalink": "https://www.instagram.com/p/Dd1kxXMGrXv/",
+      "fecha": "2026-09-28T16:06:23.946Z",
+      "tema": "Se ve perfecta. ¿Pero es una buena compra?",
+      "alt": "Portada sobre la foto de un departamento vacío y luminoso: «Se ve perfecta. ¿Pero es una buena compra?». Abajo: 5 cosas que revisamos antes de comprar una propiedad seminueva.",
+      "portada": "2026/10/2026-10-02-criterio-02-oportunidad/01.jpg",
+      "laminas": 8
+    },
     {
       "id": "2026-09-30-comprar-o-ahorrar",
       "permalink": "https://www.instagram.com/p/Dd0IuGXlv7e/",
@@ -100,15 +109,6 @@
       "alt": "Sobre la foto de un edificio de vidrio iluminado al atardecer en Concepción, con velo marino: «Tu mejor resultado económico, siempre.»",
       "portada": "2026/10/2026-10-01-L9-marca/01.jpg",
       "laminas": 1
-    },
-    {
-      "id": "2026-10-01-L8",
-      "permalink": "https://www.instagram.com/p/DdSELflkQGo/",
-      "fecha": "2026-09-14T21:08:12.200Z",
-      "tema": "Un proceso, seis etapas, cero improvisación.",
-      "alt": "Foto: huincha de medir sobre una mesa de madera. Abajo, sobre fondo arena: «Un proceso, seis etapas, cero improvisación.».",
-      "portada": "2026/10/2026-10-01-L8-proceso/01.jpg",
-      "laminas": 8
     }
   ]
 }
