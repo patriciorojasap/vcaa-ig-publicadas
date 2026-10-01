@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-09-30T16:48:03.256Z",
+  "actualizado": "2026-10-01T13:29:35.265Z",
   "posts": [
+    {
+      "id": "2026-10-01-el-pie",
+      "permalink": "https://www.instagram.com/p/Dd9A_6goFg4/",
+      "fecha": "2026-10-01T13:27:44.208Z",
+      "tema": "$16 millones más de pie. $79 mil menos de dividendo.",
+      "alt": "Portada sobre cuánto pie poner: una calculadora y un lápiz. Texto: «$16 millones más de pie. $79 mil menos de dividendo.»",
+      "portada": "2026/10/2026-10-01-el-pie/01.jpg",
+      "laminas": 8
+    },
     {
       "id": "2026-09-29-problemas-de-titulos",
       "permalink": "https://www.instagram.com/p/Dd6y61tIODE/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre la foto de una casa de juguete y una lupa encima de unos planos: «¿Te suena familiar?». Abajo: «Llevas tiempo queriendo vender tu propiedad… Hablemos».",
       "portada": "2026/09/2026-09-18-te-suena-familiar/01.jpg",
       "laminas": 5
-    },
-    {
-      "id": "2026-09-14-dieciocho",
-      "permalink": "https://www.instagram.com/p/DdSEhlSHXae/",
-      "fecha": "2026-09-14T21:11:11.233Z",
-      "tema": "En este Dieciocho, una paya inmobiliaria:",
-      "alt": "Pieza de Fiestas Patrias sobre fondo claro: bandera chilena, una guitarra, empanadas con pebre, una casa de juguete y unas llaves sobre una mesa de madera. Título: «En este dieciocho, una paya inmobiliaria». La paya dice: «En este dieciocho les vengo a cantar, si una propiedad quieres comprar, no mires solo el precio del cartel, compara, revisa y negocia bien. Que entre cueca, empanada y buen asado, tu patrimonio quede bien cuidado». Tres íconos: compara en el mercado, revisa los documentos y negocia con información. Cierra con «Tu patrimonio, primero» y el logo de VCAA.",
-      "portada": "2026/09/2026-09-14-dieciocho-paya-inmobiliaria/01.jpg",
-      "laminas": 1
     }
   ]
 }
