@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-03T18:47:36.514Z",
+  "actualizado": "2026-10-03T20:05:33.129Z",
   "posts": [
+    {
+      "id": "2026-10-06-cuanto-hay-que-ganar",
+      "permalink": "https://www.instagram.com/p/DeC35jqmbYS/",
+      "fecha": "2026-10-03T20:03:40.760Z",
+      "tema": "¿Cuánto hay que ganar para un depto de 2.000 UF?",
+      "alt": "Portada sobre comprar tu primera vivienda: una pieza vacía con árboles en la ventana. Texto: «¿Cuánto hay que ganar para un depto de 2.000 UF? Piensa tu número antes de deslizar.»",
+      "portada": "2026/10/2026-10-06-cuanto-hay-que-ganar/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-03-mitos-al-vender",
       "permalink": "https://www.instagram.com/p/DeCu_I6mpI3/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre la foto de una calculadora en un celular encima de informes con gráficos: «El plazo: la variable que más cambia lo que pagas». Abajo: «Una cuota más liviana no siempre es una propiedad más barata».",
       "portada": "2026/09/2026-09-22-plazo-del-credito/01.jpg",
       "laminas": 6
-    },
-    {
-      "id": "2026-09-19-cuestion-de-suerte",
-      "permalink": "https://www.instagram.com/p/Ddenlp3FAV7/",
-      "fecha": "2026-09-19T18:08:25.641Z",
-      "tema": "¿Vender es cuestión de suerte?",
-      "alt": "Portada: foto de dos personas que se dan la mano sobre unos documentos, sin rostros a la vista. Abajo: «¿Vender es cuestión de suerte?» y «Sí, suerte entre comillas».",
-      "portada": "2026/09/2026-09-19-cuestion-de-suerte/01.jpg",
-      "laminas": 5
     }
   ]
 }
