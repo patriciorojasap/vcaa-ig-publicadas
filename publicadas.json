@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-02T13:22:06.252Z",
+  "actualizado": "2026-10-03T18:47:36.514Z",
   "posts": [
+    {
+      "id": "2026-10-03-mitos-al-vender",
+      "permalink": "https://www.instagram.com/p/DeCu_I6mpI3/",
+      "fecha": "2026-10-03T18:45:46.268Z",
+      "tema": "Lo que todos dicen al vender. Y lo que pasa.",
+      "alt": "Portada sobre vender tu propiedad: living luminoso con puerta al jardín. Texto: «Lo que todos dicen al vender. Y lo que pasa.»",
+      "portada": "2026/10/2026-10-03-mitos-al-vender/01.jpg",
+      "laminas": 8
+    },
     {
       "id": "2026-10-01-el-pie",
       "permalink": "https://www.instagram.com/p/Dd9A_6goFg4/",
@@ -99,15 +108,6 @@
       "tema": "¿Vender es cuestión de suerte?",
       "alt": "Portada: foto de dos personas que se dan la mano sobre unos documentos, sin rostros a la vista. Abajo: «¿Vender es cuestión de suerte?» y «Sí, suerte entre comillas».",
       "portada": "2026/09/2026-09-19-cuestion-de-suerte/01.jpg",
-      "laminas": 5
-    },
-    {
-      "id": "2026-09-18-te-suena-familiar",
-      "permalink": "https://www.instagram.com/p/Ddb4AZzm46C/",
-      "fecha": "2026-09-18T16:34:13.295Z",
-      "tema": "¿Te suena familiar?",
-      "alt": "Portada sobre la foto de una casa de juguete y una lupa encima de unos planos: «¿Te suena familiar?». Abajo: «Llevas tiempo queriendo vender tu propiedad… Hablemos».",
-      "portada": "2026/09/2026-09-18-te-suena-familiar/01.jpg",
       "laminas": 5
     }
   ]
