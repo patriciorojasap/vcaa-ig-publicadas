@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-05T21:48:13.083Z",
+  "actualizado": "2026-10-05T22:08:50.822Z",
   "posts": [
+    {
+      "id": "2026-10-05-arrendar-por-lo-que-vale",
+      "permalink": "https://www.instagram.com/p/DeIPld8nCgq/",
+      "fecha": "2026-10-05T22:06:52.137Z",
+      "tema": "Tu depto no se arrienda. ¿Bajas el precio o esperas?",
+      "alt": "Portada sobre arrendar tu propiedad: llaves colgando de una cerradura. Texto: «Tu depto no se arrienda. ¿Bajas el precio o esperas?»",
+      "portada": "2026/10/2026-10-05-arrendar-por-lo-que-vale/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-26-casa-brisa-del-sol",
       "permalink": "https://www.instagram.com/p/DeINa23CeCq/",
@@ -99,15 +108,6 @@
       "tema": "Qué mirar en el barrio antes de elegir",
       "alt": "Portada: foto de Concepción desde un cerro, con los edificios del centro entre árboles y cielo azul. Abajo, sobre fondo arena: «Qué mirar en el barrio antes de elegir».",
       "portada": "2026/09/2026-09-26-vivir-en-concepcion/01.jpg",
-      "laminas": 6
-    },
-    {
-      "id": "2026-09-24-parcela-chillan",
-      "permalink": "https://www.instagram.com/p/Ddrn544j4EA/",
-      "fecha": "2026-09-24T19:21:22.116Z",
-      "tema": "Parcela de 2.500 m² con casa y cabaña",
-      "alt": "Parcela de 2.500 m² con casa y cabaña, en venta en Chillán: 3 dormitorios, 2 baños, 170 m² útiles y 2.500 m² de terreno. UF 8.300. Foto principal de la ficha publicada.",
-      "portada": "2026/09/2026-09-24-parcela-chillan/01.jpg",
       "laminas": 6
     }
   ]
