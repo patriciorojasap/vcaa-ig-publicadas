@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-05T22:08:50.822Z",
+  "actualizado": "2026-10-07T20:44:34.084Z",
   "posts": [
+    {
+      "id": "2026-10-07-visita-tecnica",
+      "permalink": "https://www.instagram.com/p/DeNPhirI2ov/",
+      "fecha": "2026-10-07T20:42:34.914Z",
+      "tema": "Visitas una casa y hay un muro recién pintado. ¿Casualidad?",
+      "alt": "Portada sobre qué mirar en una visita: un muro con postigos. Texto: «Visitas una casa y hay un muro recién pintado. ¿Casualidad?»",
+      "portada": "2026/10/2026-10-07-visita-tecnica/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-05-arrendar-por-lo-que-vale",
       "permalink": "https://www.instagram.com/p/DeIPld8nCgq/",
@@ -100,15 +109,6 @@
       "alt": "Vista de Concepción desde un cerro, con velo marino. Texto: «Canje abierto · Compra. Cliente al contado busca 2 dormitorios en el Gran Concepción. Hasta $60.000.000, sin crédito hipotecario.»",
       "portada": "2026/09/2026-09-27-canje-comprador-contado/01.jpg",
       "laminas": 3
-    },
-    {
-      "id": "2026-09-26-vivir-en-concepcion",
-      "permalink": "https://www.instagram.com/p/DdwszOTmazs/",
-      "fecha": "2026-09-26T18:40:22.178Z",
-      "tema": "Qué mirar en el barrio antes de elegir",
-      "alt": "Portada: foto de Concepción desde un cerro, con los edificios del centro entre árboles y cielo azul. Abajo, sobre fondo arena: «Qué mirar en el barrio antes de elegir».",
-      "portada": "2026/09/2026-09-26-vivir-en-concepcion/01.jpg",
-      "laminas": 6
     }
   ]
 }
