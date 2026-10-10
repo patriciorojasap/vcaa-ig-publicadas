@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-10T19:23:09.518Z",
+  "actualizado": "2026-10-10T22:33:24.004Z",
   "posts": [
+    {
+      "id": "2026-10-10-precio-mas-alto",
+      "permalink": "https://www.instagram.com/p/DeVKYorm4zP/",
+      "fecha": "2026-10-10T22:31:30.626Z",
+      "tema": "Tres ofertas por tu casa. ¿Aceptas la más alta?",
+      "alt": "Portada sobre ofertas por tu propiedad: un apretón de manos en primer plano. Texto: «Tres ofertas por tu casa. ¿Aceptas la más alta?»",
+      "portada": "2026/10/2026-10-10-precio-mas-alto/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-09-vivir-en-san-pedro",
       "permalink": "https://www.instagram.com/p/DeSVcl5FC9C/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre la foto de un living con ventanal: «¿Comprar ahora o seguir ahorrando?». Abajo: puede que no necesites esperar a juntar el 20% de pie, pero antes de decidir, mira esto.",
       "portada": "2026/09/2026-09-30-comprar-o-ahorrar/01.jpg",
       "laminas": 7
-    },
-    {
-      "id": "2026-09-27-reel-pablito-ep01",
-      "permalink": "https://www.instagram.com/reel/DdzWpPCj8Zs/",
-      "fecha": "2026-09-27T19:24:46.070Z",
-      "tema": "¿Conoces a un Pablito?",
-      "alt": "Cuadro del reel: Pablito, con sweater mostaza, entra al depa con el teléfono en alto y el texto «¡Depa regalado en Concepción!»; su amigo rubio lo mira desde el sillón.",
-      "portada": "2026/09/2026-09-27-reel-pablito-ep01/01.jpg",
-      "laminas": 1
     }
   ]
 }
