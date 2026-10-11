@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-10T22:33:24.004Z",
+  "actualizado": "2026-10-11T19:40:01.925Z",
   "posts": [
+    {
+      "id": "2026-10-11-antecedentes-para-arrendar",
+      "permalink": "https://www.instagram.com/p/DeXbVcloAHU/",
+      "fecha": "2026-10-11T19:38:07.179Z",
+      "tema": "Pablito le pasó las llaves al primero que llegó. ¿Pagará?",
+      "alt": "Portada de humor sobre elegir arrendatario. Arriba, el texto: «Pablito le pasó las llaves al primero que llegó. ¿Pagará?». Abajo, Pablito, personaje ficticio con sweater mostaza, mira eufórico su teléfono en un departamento.",
+      "portada": "2026/10/2026-10-11-antecedentes-para-arrendar/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-10-precio-mas-alto",
       "permalink": "https://www.instagram.com/p/DeVKYorm4zP/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre la foto de un departamento vacío y luminoso: «Se ve perfecta. ¿Pero es una buena compra?». Abajo: 5 cosas que revisamos antes de comprar una propiedad seminueva.",
       "portada": "2026/10/2026-10-02-criterio-02-oportunidad/01.jpg",
       "laminas": 8
-    },
-    {
-      "id": "2026-09-30-comprar-o-ahorrar",
-      "permalink": "https://www.instagram.com/p/Dd0IuGXlv7e/",
-      "fecha": "2026-09-28T02:42:01.769Z",
-      "tema": "¿Comprar ahora o seguir ahorrando?",
-      "alt": "Portada sobre la foto de un living con ventanal: «¿Comprar ahora o seguir ahorrando?». Abajo: puede que no necesites esperar a juntar el 20% de pie, pero antes de decidir, mira esto.",
-      "portada": "2026/09/2026-09-30-comprar-o-ahorrar/01.jpg",
-      "laminas": 7
     }
   ]
 }
