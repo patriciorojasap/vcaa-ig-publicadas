@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-13T20:48:18.552Z",
+  "actualizado": "2026-10-14T19:34:20.250Z",
   "posts": [
+    {
+      "id": "2026-10-14-evaluacion-sin-costo",
+      "permalink": "https://www.instagram.com/p/DefJDUfj9Ww/",
+      "fecha": "2026-10-14T19:32:18.585Z",
+      "tema": "Vender, comprar o arrendar: el error caro se comete antes",
+      "alt": "Portada en oro sobre asesoría inmobiliaria. En grande: «¿Y tu plan?». Texto: «Vender, comprar o arrendar: el error caro se comete antes». Abajo, la foto de unos planos de arquitectura.",
+      "portada": "2026/10/2026-10-14-evaluacion-sin-costo/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-13-parcela-oro-verde",
       "permalink": "https://www.instagram.com/p/DecsuXJgY5n/",
@@ -99,15 +108,6 @@
       "tema": "Lo que todos dicen al vender. Y lo que pasa.",
       "alt": "Portada sobre vender tu propiedad: living luminoso con puerta al jardín. Texto: «Lo que todos dicen al vender. Y lo que pasa.»",
       "portada": "2026/10/2026-10-03-mitos-al-vender/01.jpg",
-      "laminas": 8
-    },
-    {
-      "id": "2026-10-01-el-pie",
-      "permalink": "https://www.instagram.com/p/Dd9A_6goFg4/",
-      "fecha": "2026-10-01T13:27:44.208Z",
-      "tema": "$16 millones más de pie. $79 mil menos de dividendo.",
-      "alt": "Portada sobre cuánto pie poner: una calculadora y un lápiz. Texto: «$16 millones más de pie. $79 mil menos de dividendo.»",
-      "portada": "2026/10/2026-10-01-el-pie/01.jpg",
       "laminas": 8
     }
   ]
