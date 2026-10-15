@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-14T19:34:20.250Z",
+  "actualizado": "2026-10-15T19:19:40.218Z",
   "posts": [
+    {
+      "id": "2026-10-15-administracion-mes-a-mes",
+      "permalink": "https://www.instagram.com/p/DehsLxiFOVe/",
+      "fecha": "2026-10-15T19:17:42.862Z",
+      "tema": "Pablito no subió el arriendo: $240.000 menos en un año.",
+      "alt": "Portada de humor sobre administración de arriendos. Arriba, el texto: «Pablito no subió el arriendo: $240.000 menos en un año». Abajo, Pablito, personaje ficticio con sweater mostaza, levanta el teléfono entusiasmado, como quien trae una gran noticia.",
+      "portada": "2026/10/2026-10-15-administracion-mes-a-mes/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-14-evaluacion-sin-costo",
       "permalink": "https://www.instagram.com/p/DefJDUfj9Ww/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre comprar tu primera vivienda: una pieza vacía con árboles en la ventana. Texto: «¿Cuánto hay que ganar para un depto de 2.000 UF? Piensa tu número antes de deslizar.»",
       "portada": "2026/10/2026-10-06-cuanto-hay-que-ganar/01.jpg",
       "laminas": 10
-    },
-    {
-      "id": "2026-10-03-mitos-al-vender",
-      "permalink": "https://www.instagram.com/p/DeCu_I6mpI3/",
-      "fecha": "2026-10-03T18:45:46.268Z",
-      "tema": "Lo que todos dicen al vender. Y lo que pasa.",
-      "alt": "Portada sobre vender tu propiedad: living luminoso con puerta al jardín. Texto: «Lo que todos dicen al vender. Y lo que pasa.»",
-      "portada": "2026/10/2026-10-03-mitos-al-vender/01.jpg",
-      "laminas": 8
     }
   ]
 }
