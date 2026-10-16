@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-15T19:19:40.218Z",
+  "actualizado": "2026-10-16T18:55:34.877Z",
   "posts": [
+    {
+      "id": "2026-10-16-quien-reviso-el-precio",
+      "permalink": "https://www.instagram.com/p/DekOMk2j0Km/",
+      "fecha": "2026-10-16T18:53:26.621Z",
+      "tema": "Podrías estar pagando de más por ese depto. ¿Cómo saberlo?",
+      "alt": "Portada sobre el precio de una propiedad: arriba, la foto de una casa de juguete y una lupa sobre planos; abajo, en fondo arena, el texto «Podrías estar pagando de más por ese depto. ¿Cómo saberlo?»",
+      "portada": "2026/10/2026-10-16-quien-reviso-el-precio/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-15-administracion-mes-a-mes",
       "permalink": "https://www.instagram.com/p/DehsLxiFOVe/",
@@ -99,15 +108,6 @@
       "tema": "¿Buscas casa con patio para tu familia?",
       "alt": "Casa en arriendo en Talcahuano, en Brisa del Sol: fachada de dos pisos color terracota con antejardín de pasto (la ventana del segundo piso se cerró con IA en la foto). Texto: «¿Buscas casa con patio para tu familia?» $850.000 al mes.",
       "portada": "2026/10/2026-10-26-casa-brisa-del-sol/01.jpg",
-      "laminas": 10
-    },
-    {
-      "id": "2026-10-06-cuanto-hay-que-ganar",
-      "permalink": "https://www.instagram.com/p/DeC35jqmbYS/",
-      "fecha": "2026-10-03T20:03:40.760Z",
-      "tema": "¿Cuánto hay que ganar para un depto de 2.000 UF?",
-      "alt": "Portada sobre comprar tu primera vivienda: una pieza vacía con árboles en la ventana. Texto: «¿Cuánto hay que ganar para un depto de 2.000 UF? Piensa tu número antes de deslizar.»",
-      "portada": "2026/10/2026-10-06-cuanto-hay-que-ganar/01.jpg",
       "laminas": 10
     }
   ]
