@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-20T19:27:26.850Z",
+  "actualizado": "2026-10-21T19:27:07.956Z",
   "posts": [
+    {
+      "id": "2026-10-21-lo-que-revela-el-invierno",
+      "permalink": "https://www.instagram.com/p/DexJ0JGj4zE/",
+      "fecha": "2026-10-21T19:25:17.125Z",
+      "tema": "Visitas una casa con sol. ¿Cómo será en julio?",
+      "alt": "Portada sobre comprar casa en el Biobío: una ventana en un muro de hormigón. Texto: «Visitas una casa con sol. ¿Cómo será en julio?»",
+      "portada": "2026/10/2026-10-21-lo-que-revela-el-invierno/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-20-lo-que-dice-el-aviso",
       "permalink": "https://www.instagram.com/p/DeulDwcD8lk/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre ofertas por tu propiedad: un apretón de manos en primer plano. Texto: «Tres ofertas por tu casa. ¿Aceptas la más alta?»",
       "portada": "2026/10/2026-10-10-precio-mas-alto/01.jpg",
       "laminas": 10
-    },
-    {
-      "id": "2026-10-09-vivir-en-san-pedro",
-      "permalink": "https://www.instagram.com/p/DeSVcl5FC9C/",
-      "fecha": "2026-10-09T20:10:27.030Z",
-      "tema": "San Pedro te encanta. ¿Y el puente a las 8?",
-      "alt": "Portada sobre vivir en San Pedro de la Paz: vista aérea del río Biobío y sus puentes. Texto: «San Pedro te encanta. ¿Y el puente a las 8?»",
-      "portada": "2026/10/2026-10-09-vivir-en-san-pedro/01.jpg",
-      "laminas": 8
     }
   ]
 }
