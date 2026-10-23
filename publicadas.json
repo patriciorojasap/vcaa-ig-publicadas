@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-10-22T19:21:30.764Z",
+  "actualizado": "2026-10-23T19:25:17.743Z",
   "posts": [
+    {
+      "id": "2026-10-23-planes-administracion",
+      "permalink": "https://www.instagram.com/p/De2TML7jzUV/",
+      "fecha": "2026-10-23T19:23:24.761Z",
+      "tema": "Falla el calefón de tu depto arrendado. ¿Quién atiende?",
+      "alt": "Portada de humor sobre planes de administración de arriendos. Arriba, el texto: «Falla el calefón de tu depto arrendado. ¿Quién atiende?». Abajo, Pablito, personaje ficticio con sweater mostaza, habla serio por teléfono junto a una ventana.",
+      "portada": "2026/10/2026-10-23-planes-administracion/01.jpg",
+      "laminas": 10
+    },
     {
       "id": "2026-10-22-parcela-cato-arriendo",
       "permalink": "https://www.instagram.com/p/Dezt9W8n9GC/",
@@ -99,15 +108,6 @@
       "tema": "¿Llegas a vivir a Chillán? Trae solo la maleta.",
       "alt": "Arriendo en Chillán: living amoblado del departamento, con un cuadro grande. Texto: «¿Llegas a vivir a Chillán? Trae solo la maleta.» $550.000 al mes.",
       "portada": "2026/10/2026-10-12-depto-chillan-centro/01.jpg",
-      "laminas": 10
-    },
-    {
-      "id": "2026-10-11-antecedentes-para-arrendar",
-      "permalink": "https://www.instagram.com/p/DeXbVcloAHU/",
-      "fecha": "2026-10-11T19:38:07.179Z",
-      "tema": "Pablito le pasó las llaves al primero que llegó. ¿Pagará?",
-      "alt": "Portada de humor sobre elegir arrendatario. Arriba, el texto: «Pablito le pasó las llaves al primero que llegó. ¿Pagará?». Abajo, Pablito, personaje ficticio con sweater mostaza, mira eufórico su teléfono en un departamento.",
-      "portada": "2026/10/2026-10-11-antecedentes-para-arrendar/01.jpg",
       "laminas": 10
     }
   ]
