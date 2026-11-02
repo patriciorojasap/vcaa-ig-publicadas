@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-11-01T19:49:38.972Z",
+  "actualizado": "2026-11-02T23:10:41.713Z",
   "posts": [
+    {
+      "id": "2026-11-02-fogaes-plata-pie",
+      "permalink": "https://www.instagram.com/p/DfQdIKrj02d/",
+      "fecha": "2026-11-02T23:10:30.095Z",
+      "tema": "Todos hablan del FOGAES. ¿Te regalan el 10 %?",
+      "alt": "Portada: «Todos hablan del FOGAES. ¿Te regalan el 10 %?» 3 claves, con un depto nuevo de $100 millones en números.",
+      "portada": "2026/11/2026-11-02-fogaes-plata-pie/01.jpg",
+      "laminas": 9
+    },
     {
       "id": "2026-11-01-es-real-la-foto",
       "permalink": "https://www.instagram.com/p/DfNhVPJG0Ew/",
@@ -100,15 +109,6 @@
       "alt": "Portada en oro con «10 cosas» en grande: lo que aprendes con tu primera propiedad. Te lo contamos antes, para que compres con más calma. Abajo, una casa de dos pisos de fachada azul marino al anochecer, con las ventanas encendidas y el camino mojado.",
       "portada": "2026/10/2026-10-18-primera-casa-10-cosas/01.jpg",
       "laminas": 7
-    },
-    {
-      "id": "2026-10-17-vivir-en-talcahuano",
-      "permalink": "https://www.instagram.com/p/DemsMfbCd6_/",
-      "fecha": "2026-10-17T17:54:01.188Z",
-      "tema": "Te vas a vivir a Talcahuano. ¿Cerro o plan?",
-      "alt": "Portada sobre vivir en Talcahuano, sobre fondo marino: de fondo, arquitectura de curvas (foto referencial, no es de Talcahuano). Texto: «Te vas a vivir a Talcahuano. ¿Cerro o plan?»",
-      "portada": "2026/10/2026-10-17-vivir-en-talcahuano/01.jpg",
-      "laminas": 10
     }
   ]
 }
