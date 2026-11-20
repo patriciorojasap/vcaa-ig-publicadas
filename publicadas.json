@@ -1,7 +1,16 @@
 {
   "cuenta": "vcaa_inmobiliaria_e_inversion",
-  "actualizado": "2026-11-19T17:47:01.754Z",
+  "actualizado": "2026-11-20T22:17:24.063Z",
   "posts": [
+    {
+      "id": "2026-11-20-hipoteca-joven-90",
+      "permalink": "https://www.instagram.com/p/Df-tWTmgXPH/",
+      "fecha": "2026-11-20T22:17:17.632Z",
+      "tema": "¿Sabías que ya hay créditos hipotecarios a 40 años?",
+      "alt": "Portada sobre créditos hipotecarios a 40 años. Foto de fondo: una mano entrega unas llaves a otra, entre cajas de mudanza, con un velo azul. «Si buscas tu primera propiedad. ¿Sabías que ya hay créditos hipotecarios a 40 años?»",
+      "portada": "2026/11/2026-11-20-hipoteca-joven-90/01.jpg",
+      "laminas": 9
+    },
     {
       "id": "2026-11-19-arrendatario-atraso-dia-1",
       "permalink": "https://www.instagram.com/p/Df7pm0hlOGp/",
@@ -100,15 +109,6 @@
       "alt": "Portada sobre asesoría inmobiliaria sin promesas infladas: vista de Concepción desde un cerro. Texto: «Te prometen vender tu propiedad en 30 días. ¿Les crees?»",
       "portada": "2026/10/2026-10-25-lo-que-no-prometemos/01.jpg",
       "laminas": 9
-    },
-    {
-      "id": "2026-10-24-negociar-no-es-solo-precio",
-      "permalink": "https://www.instagram.com/p/De4wWFGltJo/",
-      "fecha": "2026-10-24T18:16:37.121Z",
-      "tema": "Pablito regateó $5 millones. Y se quedó con la humedad.",
-      "alt": "Portada sobre negociar una propiedad, en oro con «¿Solo eso?» en grande. Texto: «Pablito regateó $5 millones. Y se quedó con la humedad». Abajo, Pablito, personaje ficticio, entra contento a un departamento vacío y luminoso.",
-      "portada": "2026/10/2026-10-24-negociar-no-es-solo-precio/01.jpg",
-      "laminas": 10
     }
   ]
 }
